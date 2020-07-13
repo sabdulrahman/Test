@@ -1,6 +1,7 @@
 //pip3 install cv
 //to run cmd - python ObjectDetect2.py --image images/13.jpg --yolo yolo-coco
-
+//download weights (yolo-coco) - https://drive.google.com/drive/folders/1xdkc3WSVizBysOL7WuJ7yqoUtH_6MbDo?usp=sharing
+	
 import numpy as np
 import argparse
 import cv2
