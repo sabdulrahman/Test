@@ -1,5 +1,5 @@
 //pip3 install cv
-//to run cmd - python yolo.py --image images/13.jpg --yolo yolo-coco
+//to run cmd - python ObjectDetect2.py --image images/13.jpg --yolo yolo-coco
 
 import numpy as np
 import argparse
